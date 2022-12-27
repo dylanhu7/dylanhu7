@@ -1,4 +1,4 @@
 ### Hey there! 👋
 My name is Dylan Hu, and I'm currently a junior at Brown University studying computer science. I'm interested in computer graphics, game development, computer vision, and deep learning. I also study Japanese and enjoy full-stack web development! Feel free to contact me at dh@brown.edu!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylanhu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dylanhu) [![wakatime](https://wakatime.com/badge/user/39a9fb5d-2cd5-4e80-8d0d-3efe610826f6.svg?style=flat)](https://wakatime.com/@39a9fb5d-2cd5-4e80-8d0d-3efe610826f6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylanhu7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dylanhu) [![wakatime](https://wakatime.com/badge/user/39a9fb5d-2cd5-4e80-8d0d-3efe610826f6.svg?style=flat)](https://wakatime.com/@39a9fb5d-2cd5-4e80-8d0d-3efe610826f6)
