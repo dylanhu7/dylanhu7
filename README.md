@@ -1,4 +1,4 @@
 ### Hey there! 👋
-My name is Dylan Hu, and I'm currently a senior at Brown University studying computer science and applied math. I'm interested in visual computing research, computer graphics, computer vision, and deep learning. Feel free to contact me at dh@brown.edu!
+I'm currently a senior at Brown University studying computer science and applied math. I'm interested in visual computing research, computer graphics, computer vision, and deep learning. Feel free to contact me at dh@brown.edu!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylanhu7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/dylanhu)
