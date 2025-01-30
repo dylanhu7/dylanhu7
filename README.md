@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm currently a software engineer at Microsoft.
+I'm an engineer at [World Labs](https://worldlabs.ai), where I'm building interfaces and interactions for spatial intelligence.
 
 I recently graduated from Brown University, where I studied computer science and applied math.
 
